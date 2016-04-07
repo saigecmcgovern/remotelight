@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_program_bulbs_to_groups" xml:lang="en-us">
-    <title>Programming Light Bulbs to a Lighting Group</title>
+    <title>Programming Light Bulbs to Lighting Groups</title>
     <shortdesc>You can program one or more light bulbs to a lighting group to operate that group
         with your remote control.</shortdesc>
     <prolog>
@@ -84,6 +84,9 @@
                     excluded fixtures that you turned off in Step <xref
                         href="#how_to_program_bulbs_to_groups/step_turn_power_off" format="dita"
                     />.</cmd>
+            </step>
+            <step>
+                <cmd> Be happy.</cmd>
             </step>
         </steps>
     </taskbody>

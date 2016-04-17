@@ -2,6 +2,19 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Remote Lighting Network</title>
+ <topicmeta>
+  <author>Kevin Lewis</author>
+  <author>Carlos Evia</author>
+ </topicmeta>
+ 
+ <keydef keys="product-name">
+  <topicmeta>
+   <keywords>
+    <keyword>Remote Network Lighting</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
  <topicref href="intro_product.dita"/>
  <topicref href="ref_remote_control_components.dita"/>
  <topicref href="intro_network_lighting.dita">

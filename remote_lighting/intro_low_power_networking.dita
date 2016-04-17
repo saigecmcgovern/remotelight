@@ -13,7 +13,7 @@
   </copyright>
  </prolog>
  <conbody>
-  <p>The remote control and light bulbs communicate with each other using a low-power wireless
+  <p>The remote control and light bulbs in your <keyword keyref="product-name"/> communicate with each other using a low-power wireless
    networking technology. In this low-power network, the wireless devices are able to interact with
    each other over the network by sending data from one device to the next, using the best radio
    signal path on the network. This path does not have to be a direct connection between the remote

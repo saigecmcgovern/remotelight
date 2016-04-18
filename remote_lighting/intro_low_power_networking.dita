@@ -31,6 +31,7 @@
    have with your mobile phone inside a building. Your remote control can have trouble communicating
    with the network lighting if their radio signals are blocked by obstacles such as large metal
    panels or walls containing wire mesh.</p>
+  <note conref="osha_warning.dita#oshawarning/disclaimer" />
  </conbody>
  <related-links>
   <link href="intro_network_lighting.dita#intro_network_lighting" scope="local"/>

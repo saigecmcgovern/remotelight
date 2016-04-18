@@ -22,6 +22,8 @@
     <li>If you have multiple light bulbs, you might want to set them up in rooms and lighting groups
      to be able to better manage them across your home.</li>
    </ul>
+   <note conref="osha_warning.dita#oshawarning/disclaimer" />
   </example>
+  
  </conbody>
 </concept>

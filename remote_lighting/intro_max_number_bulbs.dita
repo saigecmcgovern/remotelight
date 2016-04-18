@@ -17,6 +17,7 @@
    if too many light bulbs are installed on the lighting network. Testing has shown that the
    lighting network should be limited to a maximum of 250 light bulbs to maintain reliability in
    performance.</p>
+  <note conref="osha_warning.dita#oshawarning/disclaimer" />
  </conbody>
  <related-links>
   <link href="intro_network_lighting.dita#intro_network_lighting" scope="local"/>

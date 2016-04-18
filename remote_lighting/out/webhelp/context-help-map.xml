@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="intro_product" path="intro_product.html"/>
+   <appContext helpID="ref_remote_control_components"
+               path="ref_remote_control_components.html"/>
+   <appContext helpID="intro_network_lighting" path="intro_network_lighting.html"/>
+   <appContext helpID="intro_max_number_bulbs" path="intro_max_number_bulbs.html"/>
+   <appContext helpID="intro_low_power_networking"
+               path="intro_low_power_networking.html"/>
+   <appContext helpID="intro_considerations_planning_light_network"
+               path="intro_considerations_planning_light_network.html"/>
+   <appContext helpID="how_to_program_bulbs_to_groups"
+               path="how_to_program_bulbs_to_groups.html"/>
+   <appContext helpID="how_to_turn_on_off_dim_lights"
+               path="how_to_turn_on_off_dim_lights.html"/>
+   <appContext helpID="ref_specifications_overview"
+               path="ref_specifications_overview.html"/>
+   <appContext helpID="ref_specifications_remote_control"
+               path="ref_specifications_remote_control.html"/>
+   <appContext helpID="ref_specifications_led_bulb"
+               path="ref_specifications_led_bulb.html"/>
+   <appContext helpID="oshawarning" path="osha_warning.html"/>
+</map>

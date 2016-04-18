@@ -27,8 +27,10 @@
    </dlentry>
   </dl>
   <image href="_images/kit.png" id="image_xmw_mxy_3r"/>
+<note conref="osha_warning.dita#oshawarning/disclaimer" />
  </conbody>
  <related-links>
   <link href="intro_network_lighting.dita#intro_network_lighting"/>
  </related-links>
+
 </concept>

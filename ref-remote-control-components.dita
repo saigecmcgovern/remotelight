@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="ref_remote_control_components" xml:lang="en-us">
+<reference id="ref-remote-control-components" xml:lang="en-us">
   <title>Remote Control Components</title>
   <shortdesc>The remote control has components that allow you to program and operate the light bulbs
     on your lighting network.</shortdesc>
   <prolog>
     <author>Kevin Lewis</author>
     <copyright>
-      <copyryear year="2015"/>
+      <copyryear year="2017"/>
       <copyrholder>Remote Lighting Enterprises</copyrholder>
     </copyright>
   </prolog>
   <refbody>
     <section>
-      <fig id="fig_qjp_1vx_3r">
-        <title>Front and back of remote control<image href="_images/remote_control_callouts.png"
-            id="image_svq_2vx_3r"/></title>
+      <fig id="fig-qjp-1vx-3r">
+        <title>Front and back of remote control<image href="images/remote-control-callouts.png"
+            id="image-svq-2vx-3r"/></title>
       </fig>
     </section>
-    <properties id="properties_ygc_svx_3r">
+    <properties id="properties-ygc-svx-3r">
       <prophead>
         <proptypehd>#</proptypehd>
         <propvaluehd>Component</propvaluehd>
@@ -28,7 +28,7 @@
         <proptype>1</proptype>
         <propvalue>Power button indicator</propvalue>
         <propdesc>Indicator that lights or flashes during different activities with the remote
-          control. Indicators include:<ul id="ul_gy4_qwx_3r">
+          control. Indicators include:<ul id="ul-gy4-qwx-3r">
             <li>Green: Power on/off or dimmer command was successfully sent to the selected lighting
               group(s).</li>
             <li>Red: Power on/off or dimmer command failed. Indicator remains red for 3
@@ -54,7 +54,7 @@
         <proptype>4</proptype>
         <propvalue>Lighting group number indicator</propvalue>
         <propdesc>Indicator that lights or flashes during different activities with the
-          corresponding lighting group. Indicators include:<ul id="ul_a4d_5zx_3r">
+          corresponding lighting group. Indicators include:<ul id="ul-a4d-5zx-3r">
             <li>Green: Selected lighting group is activated for you to turn on/off, dim, or program.
               The lighting group remains activated (indicator remains green) for 5 seconds if you
               take no subsequent action.</li>
@@ -81,7 +81,7 @@
         <proptype>7</proptype>
         <propvalue>Reset button</propvalue>
         <propdesc>Button that you press to manage the remote control as follows:<ul
-            id="ul_sht_1jy_3r">
+            id="ul-sht-1jy-3r">
             <li>Press and release 3 times to connect the remote control to a lighting network that
               already exists (for example, if you are replacing a remote control).</li>
             <li>Press and hold for 10 seconds to reset the remote control and all lighting group

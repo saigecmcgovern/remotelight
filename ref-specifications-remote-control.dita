@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="ref_specifications_remote_control" xml:lang="en-us">
+<reference id="ref-specifications-remote-control" xml:lang="en-us">
   <title>Remote Control Specifications</title>
   <shortdesc>Specifications describing the electronics and technology inside the remote
     control.</shortdesc>
   <prolog>
     <author>Kevin Lewis</author>
     <copyright>
-      <copyryear year="2015"/>
+      <copyryear year="2017"/>
       <copyrholder>Remote Lighting Enterprises</copyrholder>
     </copyright>
   </prolog>
   <refbody>
-    <simpletable id="simpletable_zzc_hry_3r">
+    <simpletable id="simpletable-zzc-hry-3r">
       <sthead>
         <stentry>Feature</stentry>
         <stentry>Specification</stentry>

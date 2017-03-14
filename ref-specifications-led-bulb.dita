@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="ref_specifications_led_bulb" xml:lang="en-us">
+<reference id="ref-specifications-led-bulb" xml:lang="en-us">
   <title>LED Light Bulb Specifications</title>
   <shortdesc>Specifications describing the electronics and technology inside the LED light
     bulb.</shortdesc>
   <prolog>
     <author>Kevin Lewis</author>
     <copyright>
-      <copyryear year="2015"/>
+      <copyryear year="2017"/>
       <copyrholder>Remote Lighting Enterprises</copyrholder>
     </copyright>
   </prolog>
   <refbody>
-    <simpletable id="simpletable_jtm_cty_3r"> 
+    <simpletable id="simpletable-jtm-cty-3r"> 
       <sthead>
         <stentry>Feature</stentry>
         <stentry>Specification</stentry>

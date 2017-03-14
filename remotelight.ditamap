@@ -15,18 +15,18 @@
   </topicmeta>
  </keydef>
  
- <topicref href="intro_product.dita"/>
- <topicref href="ref_remote_control_components.dita"/>
- <topicref href="intro_network_lighting.dita">
-  <topicref href="intro_max_number_bulbs.dita"/>
-  <topicref href="intro_low_power_networking.dita"/>
+ <topicref href="intro-product.dita"/>
+ <topicref href="ref-remote-control-components.dita"/>
+ <topicref href="intro-network-lighting.dita">
+  <topicref href="intro-max-number-bulbs.dita"/>
+  <topicref href="intro-low-power-networking.dita"/>
  </topicref>
- <topicref href="intro_considerations_planning_light_network.dita"/>
- <topicref href="how_to_program_bulbs_to_groups.dita"/>
- <topicref href="how_to_turn_on_off_dim_lights.dita"/>
- <topicref href="ref_specifications_overview.dita">
-  <topicref href="ref_specifications_remote_control.dita"/>
-  <topicref href="ref_specifications_led_bulb.dita"/>
+ <topicref href="intro-considerations-planning-light-network.dita"/>
+ <topicref href="how-to-program-bulbs-to-groups.dita"/>
+ <topicref href="how-to-turn-on-off-dim-lights.dita"/>
+ <topicref href="ref-specifications-overview.dita">
+  <topicref href="ref-specifications-remote-control.dita"/>
+  <topicref href="ref-specifications-led-bulb.dita"/>
  </topicref>
- <topicref href="osha_warning.dita" toc="no" />
+ <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
 </map>

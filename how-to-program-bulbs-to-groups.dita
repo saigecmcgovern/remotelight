@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_program_bulbs_to_groups" xml:lang="en-us">
+<task id="how-to-program-bulbs-to-groups" xml:lang="en-us">
     <title>Programming Light Bulbs to Lighting Groups</title>
     <shortdesc>You can program one or more light bulbs to a lighting group to operate that group
         with your remote control.</shortdesc>
     <prolog>
         <author>Kevin Lewis</author>
         <copyright>
-            <copyryear year="2015"/>
+            <copyryear year="2017"/>
             <copyrholder>Remote Lighting Enterprises</copyrholder>
         </copyright>
         <metadata>
@@ -35,10 +35,10 @@
                 <cmd>Make sure your remote control is in range of the light bulbs you are
                     adding.</cmd>
             </step>
-            <step id="step_if_bulb_new">
+            <step id="step-if-bulb-new">
                 <cmd>If a network light bulb is new, you must install it by performing the following
                     steps:</cmd>
-                <substeps id="substeps_nt1_k44_kr">
+                <substeps id="substeps-nt1-k44-kr">
                     <substep>
                         <cmd>Make sure power to the fixture where you are installing the light bulb
                             is turned OFF.</cmd>
@@ -57,7 +57,7 @@
                     </substep>
                     <substep>
                         <cmd>Repeat Step <xref
-                                href="#how_to_program_bulbs_to_groups/step_if_bulb_new"
+                                href="#how-to-program-bulbs-to-groups/step-if-bulb-new"
                                 format="dita"/> for each new network light bulb.</cmd>
                     </substep>
                 </substeps>
@@ -66,7 +66,7 @@
                 <cmd>Turn power on to the fixtures containing network light bulbs you want added to
                     the light group.</cmd>
             </step>
-            <step id="step_turn_power_off">
+            <step id="step-turn-power-off">
                 <cmd>Turn power off to the fixtures containing light bulbs you do not want added to
                     the light group. </cmd>
             </step>
@@ -82,12 +82,10 @@
                 <cmd>Leave the light fixture switches ON so that power is available when using your
                     remote control to turn the light bulbs on and off. Also remember to turn on any
                     excluded fixtures that you turned off in Step <xref
-                        href="#how_to_program_bulbs_to_groups/step_turn_power_off" format="dita"
+                        href="#how-to-program-bulbs-to-groups/step-turn-power-off" format="dita"
                     />.</cmd>
             </step>
-            <step>
-                <cmd> Be happy.</cmd>
-            </step>
+          
         </steps>
     </taskbody>
 </task>

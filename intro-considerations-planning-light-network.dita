@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="intro_considerations_planning_light_network" xml:lang="en-us">
+<concept id="intro-considerations-planning-light-network" xml:lang="en-us">
  <title>Considerations for Planning Your Lighting Network</title>
  <shortdesc>Before installing your network lighting, you should plan how you want your lighting
   network to behave.</shortdesc>
  <prolog>
   <author>Kevin Lewis</author>
   <copyright>
-   <copyryear year="2015"/>
+   <copyryear year="2017"/>
    <copyrholder>Remote Lighting Enterprises</copyrholder>
   </copyright>
  </prolog>
@@ -22,7 +22,7 @@
     <li>If you have multiple light bulbs, you might want to set them up in rooms and lighting groups
      to be able to better manage them across your home.</li>
    </ul>
-   <note conref="osha_warning.dita#oshawarning/disclaimer" />
+   <note conref="osha-warning.dita#oshawarning/disclaimer" />
   </example>
   
  </conbody>

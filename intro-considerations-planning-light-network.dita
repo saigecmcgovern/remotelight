@@ -24,6 +24,8 @@
    </ul>
    <note conref="osha-warning.dita#oshawarning/disclaimer" />
   </example>
-  
+  <postreq>
+   <p conref="c-disclaimer.dita#c-disclaimer/disc" />
+  </postreq>
  </conbody>
 </concept>

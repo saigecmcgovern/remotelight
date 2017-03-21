@@ -110,5 +110,8 @@
         </steps>
         <result>The light bulbs in the selected lighting group turn on, turn off, or dim depending
             on your selection.</result>
+        <postreq>
+            <p conref="c-disclaimer.dita#c-disclaimer/disc"/>
+        </postreq>
     </taskbody>
 </task>

@@ -87,5 +87,8 @@
             </step>
           
         </steps>
+      <postreq>
+          <p conref="c-disclaimer.dita#c-disclaimer/disc" />
+      </postreq>
     </taskbody>
 </task>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_lnw_kpv_hz">
+  <title>Restarting the System</title>
+  <troublebody>
+    <condition>
+      <p>If you need to restart the system, follow these steps.</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>Restarting the system</title>
+        <p>This can be used when the system freezes or updates are installed.</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>Locate the power button.</cmd>
+          </step>
+          <step>
+            <cmd>Hold down for 15 seconds.</cmd>
+          </step>
+          <step>
+            <cmd>Let the system rest for 30-45 seconds.</cmd>
+          </step>
+          <step>
+            <cmd>Hold the power button for 10 seconds.</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

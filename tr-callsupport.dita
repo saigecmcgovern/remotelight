@@ -22,6 +22,7 @@
           </step>
           <step>
             <cmd>Dial 1-800-HALP.</cmd>
+            <info> <p conref="c-disclaimer.dita#c-disclaimer/disc" /> </info>
           </step>
         </steps-unordered>
       </remedy>

@@ -23,9 +23,7 @@
      to be able to better manage them across your home.</li>
    </ul>
    <note conref="osha-warning.dita#oshawarning/disclaimer" />
-  </example>
-  <postreq>
    <p conref="c-disclaimer.dita#c-disclaimer/disc" />
-  </postreq>
+  </example>
  </conbody>
 </concept>

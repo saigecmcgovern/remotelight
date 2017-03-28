@@ -1,0 +1,215 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en-us" lang="en-us">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+      <meta name="DC.Type" content="task" /><meta name="DC.Title" content="Programming Light Bulbs to Lighting Groups" /><meta name="abstract" content="You can program one or more light bulbs to a lighting group to operate that group with your remote control." /><meta name="description" content="You can program one or more light bulbs to a lighting group to operate that group with your remote control." /><meta name="indexterms" content="lighting group, programming for light bulbs, programming a lighting group, light bulbs, programming to lighting group" /><meta name="DC.subject" content="lighting group, programming for light bulbs, programming a lighting group, light bulbs, programming to lighting group" /><meta name="keywords" content="lighting group, programming for light bulbs, programming a lighting group, light bulbs, programming to lighting group" /><meta name="DC.Creator" content="Carlos Evia" /><meta name="DC.Creator" content="Kevin Lewis" /><meta name="DC.Creator" content="Kevin Lewis" /><meta name="copyright" content="Remote Lighting Enterprises 2017" type="primary" /><meta name="DC.Rights.Owner" content="Remote Lighting Enterprises 2017" type="primary" /><meta name="DC.Format" content="XHTML" /><meta name="DC.Identifier" content="how-to-program-bulbs-to-groups" /><meta name="DC.Language" content="en-us" /><title>Programming Light Bulbs to Lighting Groups</title><!--  Generated with Oxygen version 18.1, build number 2017020917.  --><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <script>
+          function debug(msg, object){
+              console.log(msg, object);
+          }
+          function executeQuery(){
+              $('#searchForm').submit();
+              return true;
+          }
+      </script>
+      
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css" />
+          
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_responsive_topic.css" />
+          
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/bootstrap/css/bootstrap.min.css" />
+
+        <!-- Bootstrap Optional theme -->
+        <link rel="stylesheet" href="oxygen-webhelp/resources/bootstrap/css/bootstrap-theme.min.css" />
+
+        <!-- Changes and comments, as side-notes  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/p-side-notes.css" />
+
+
+        <!-- Template default styles  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/resources/css/wt_default.css" />
+        
+        <!-- Expand-collapse support styles  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/resources/css/wt_expand.css" />
+        
+
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.11.3.min.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/localization/strings.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/localization.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/parseuri.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-ui.custom.min.js"><!----></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"><!----></script>
+        <!-- Skin resources -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/variants/tiles/oxygen/skin.css" />
+        <!-- EXM-36950 - Expand the args.hdf parameter here -->
+        
+        
+    </head>
+
+    <body onload="highlightSearchTerm()" class="wh_topic_page frmBody" id="how-to-program-bulbs-to-groups">
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+<nav class="navbar navbar-default wh_header">
+    <div class="container">
+        <div class="wh_header_flex_container">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    <a href="index.html" class=" wh_logo hidden-xs "></a>
+                    <div class=" wh_publication_title "><a href="index.html"><span class="title">Remote Lighting Network</span></a></div>
+                    
+                </div>
+                <button type="button" data-target=".wh_top_menu_and_indexterms_link" data-toggle="collapse" class="navbar-toggle collapsed wh_toggle_button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse">
+                
+                <div class=" wh_top_menu "><ul><li><span class="topicref"><a href="intro-product.html" data-id="intro-product">Remote Lighting Overview</a></span></li><li><span class="topicref"><a href="ref-remote-control-components.html" data-id="ref-remote-control-components">Remote Control Components</a></span></li><li class=" has-children "><span class="topicref"><a href="intro-network-lighting.html" data-id="intro-network-lighting">Basic Concepts of Network Lighting</a></span><ul><li><span class="topicref"><a href="intro-max-number-bulbs.html" data-id="intro-max-number-bulbs">Maximum Number of Network Light Bulbs</a></span></li><li><span class="topicref"><a href="intro-low-power-networking.html" data-id="intro-low-power-networking">Low-Power Networking</a></span></li></ul></li><li><span class="topicref"><a href="intro-considerations-planning-light-network.html" data-id="intro-considerations-planning-light-network">Considerations for Planning Your Lighting Network</a></span></li><li><span class="topicref"><a href="how-to-program-bulbs-to-groups.html" data-id="how-to-program-bulbs-to-groups">Programming Light Bulbs to Lighting Groups</a></span></li><li><span class="topicref"><a href="how-to-turn-on-off-dim-lights.html" data-id="how-to-turn-on-off-dim-lights">Turning On/Off or Dimming a Lights</a></span></li><li class=" has-children "><span class="topicref"><a href="ref-specifications-overview.html" data-id="ref-specifications-overview">Product Specifications</a></span><ul><li><span class="topicref"><a href="ref-specifications-remote-control.html" data-id="ref-specifications-remote-control">Remote Control Specifications</a></span></li><li><span class="topicref"><a href="ref-specifications-led-bulb.html" data-id="ref-specifications-led-bulb">LED Light Bulb Specifications</a></span></li></ul></li><li><span class="topicref"><a href="md-contactinfo.html" data-id="contact_information">Contact Information</a></span></li></ul></div>
+                <div class=" wh_indexterms_link "><a href="indexTerms.html" title="Index"><span>Index</span></a></div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+        <div class=" wh_search_input "><form id="searchForm" method="get" action="search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" /><button type="submit" class="wh_search_button"><span>Search</span></button></div></form></div>
+        
+        <div class="container">
+            <div class="row">
+
+                <nav class="wh_tools hidden-print">
+                    <div class=" wh_breadcrumb "><ol class="hidden-print"><li><span class="home"><a href="index.html"><span>Home</span></a></span></li><li class="active"><span class="topicref">Programming Light Bulbs to Lighting Groups</span></li></ol></div>
+
+                    <div class="wh_right_tools hidden-sm hidden-xs">
+                        <div class=" wh_navigation_links "><span id="topic_navigation_links" class="navheader"></span></div>
+                        <div class=" wh_print_link print "><a href="javascript:window.print();" title="Print this page"></a></div>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="wh_content_area">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class=" wh_topic_content body "><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">Programming Light Bulbs to Lighting Groups</h1>
+
+    
+    
+    <div class="body taskbody"><p class="shortdesc">You can program one or more light bulbs to a lighting group to operate that group
+        with your remote control.</p>
+
+        <section class="section context">
+            <div class="p">Your <span class="keyword">Remote Network Lighting</span> control can manage up to 250 network light bulbs on the same lighting
+                network. When you add a light bulb to the network, you can program it to one or more
+                lighting groups. You must assign a light bulb to at least one lighting group to
+                operate that light bulb.<div class="note note"><span class="notetitle">Note:</span> A network light bulb that is not programmed to a
+                    lighting group will still operate when controlling all network light bulbs from
+                    the remote control.</div>
+</div>
+
+        </section>
+
+        <p class="li stepsection">To program light bulbs to a lighting group:</p><ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Make sure your remote control is in range of the light bulbs you are
+                    adding.</span>
+            </li>
+<li class="li step stepexpand" id="how-to-program-bulbs-to-groups__step-if-bulb-new">
+                <span class="ph cmd">If a network light bulb is new, you must install it by performing the following
+                    steps:</span>
+                <ol type="a" class="ol substeps" id="how-to-program-bulbs-to-groups__substeps-nt1-k44-kr">
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Make sure power to the fixture where you are installing the light bulb
+                            is turned OFF.</span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Remove any existing light bulb from the light fixture.</span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Install the network light bulb into the light fixture as you would any
+                            standard light bulb.</span>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Turn power to the light fixture on.</span>
+                        <div class="itemgroup stepresult">The light bulb begins to brighten and dim while finding the
+                            remote control’s network.</div>
+                    </li>
+
+                    <li class="li substep substepexpand">
+                        <span class="ph cmd">Repeat Step <a class="xref" href="#how-to-program-bulbs-to-groups__step-if-bulb-new">2</a> for each new network light bulb.</span>
+                    </li>
+
+                </ol>
+
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Turn power on to the fixtures containing network light bulbs you want added to
+                    the light group.</span>
+            </li>
+<li class="li step stepexpand" id="how-to-program-bulbs-to-groups__step-turn-power-off">
+                <span class="ph cmd">Turn power off to the fixtures containing light bulbs you do not want added to
+                    the light group. </span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">On the remote control, press and hold the desired lighting group button for 5
+                    seconds.</span>
+                <div class="itemgroup stepresult">The button indicator for the selected lighting group flashes green while
+                    the light bulb(s) are added to the group. If the indicator flashes red, the
+                    lighting group was not activated and you must try again. Light flashes red for 3
+                    seconds if programming fails.</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Leave the light fixture switches ON so that power is available when using your
+                    remote control to turn the light bulbs on and off. Also remember to turn on any
+                    excluded fixtures that you turned off in Step <a class="xref" href="#how-to-program-bulbs-to-groups__step-turn-power-off">4</a>.</span>
+            </li>
+</ol>
+
+      <section class="section postreq">
+          <p class="p"> However you choose to use this product is at your discretion. We are not legally responsible for your actions.</p>
+
+      </section>
+
+    </div>
+
+</article></main></div>
+                        
+                        
+                        
+                        
+                    </div>
+                    <nav role="navigation" class="col-lg-4 col-md-4 col-sm-4 col-xs-12 navbar" id="wh_side_toc">
+                        
+                    </nav>
+                </div>
+            </div>
+        </div> <nav class="navbar navbar-default wh_footer">
+  <div class=" footer-container text-center ">
+    WebHelp output generated by <a class="oxyFooter" href="http://www.oxygenxml.com" target="_blank"> &lt;oXygen/&gt; XML Author </a>
+  </div>
+</nav>
+ <!-- Latest compiled and minified JavaScript -->
+        <script src="oxygen-webhelp/resources/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="oxygen-webhelp/template/resources/js/wt_default.js" type="text/javascript"></script>
+        <!-- Expand/collapse support -->
+        <script src="oxygen-webhelp/template/resources/js/wt_expand.js" type="text/javascript"></script>
+        
+    </body>
+</html>

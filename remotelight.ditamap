@@ -29,4 +29,5 @@
   <topicref href="ref-specifications-led-bulb.dita"/>
  </topicref>
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
+<topicref href="md-contactinfo.md" format="markdown"/>
 </map>
